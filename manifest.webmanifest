@@ -1,0 +1,17 @@
+{
+  "name": "接待交際費管理",
+  "short_name": "交際費管理",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbfcfa",
+  "theme_color": "#1d4f5f",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
